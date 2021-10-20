@@ -1,0 +1,14 @@
+# Project Outline 
+
+Label Encoding refers to converting the label into a numeric form so to convert them into machine readable form.It is an important
+pre-processing step for the structured dataset in supervised learning.
+
+In this project there is a two way approach shown to use label encoding for datasets.
+Approach 1: scikit-learn library
+Approach 2: Category codes
+
+
+Here is the quick guide link for label encoding : 
+
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
+https://www.askpython.com/python/examples/label-encoding
